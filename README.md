@@ -5,7 +5,7 @@ CherryBlossomGrid.WPF 是一个基于WPF框架的美观的Grid。
 
 ## 快速开始
 ```XAML
-xmlns:cbg="clr-namespace:CherryBlossomGrid.WPF;assembly=CherryBlossomGrid.WPF"
+xmlns:wpf="clr-namespace:CherryBlossomGrid.WPF;assembly=CherryBlossomGrid.WPF"
 ```
 ```XAML
   <wpf:CherryBlossomAniGrid>
